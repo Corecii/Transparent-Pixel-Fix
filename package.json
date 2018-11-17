@@ -1,0 +1,15 @@
+{
+  "name": "transparentpixelfixer",
+  "version": "1.0.0",
+  "description": "Fixes transparent pixels in images to use the nearest color instead of black",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Corecii Cyr",
+  "license": "MIT",
+  "dependencies": {
+    "d3-delaunay": "^4.1.5",
+    "jimp": "^0.5.6"
+  }
+}
